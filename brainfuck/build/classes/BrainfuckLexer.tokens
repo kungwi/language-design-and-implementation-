@@ -1,0 +1,17 @@
+LoopOpen=7
+Decrement=4
+WhiteSpace=9
+Increment=3
+Write=2
+PointerLeft=6
+PointerRight=5
+Read=1
+LoopClose=8
+'<'=6
+'['=7
+'-'=4
+'+'=3
+','=1
+'.'=2
+'>'=5
+']'=8
